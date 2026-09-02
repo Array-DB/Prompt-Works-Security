@@ -51,3 +51,18 @@ Install the downloaded package with:
 
 ```bash
 sudo pacman -U ~/Downloads/OnlyKey-Prompt-Works-Security-Details-5.5.0.pw5-1-x86_64.pkg.tar.zst
+
+## SHA-256
+
+`OnlyKey-Prompt-Works-Security-Details-5.5.0.pw5-1-x86_64.pkg.tar.zst`
+
+```text
+f381cfbe350c3d6b4fe7250efd40d8b88300b7e4cc4b2cc1458ee38a279a23d0
+
+
+Verify after downloading:
+sha256sum OnlyKey-Prompt-Works-Security-Details-5.5.0.pw5-1-x86_64.pkg.tar.zst
+
+
+The verified SHA-256 is:
+**`f381cfbe350c3d6b4fe7250efd40d8b88300b7e4cc4b2cc1458ee38a279a23d0`**.
